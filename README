@@ -1,0 +1,12 @@
+
+1. Open a terminal and execute the below command
+>./KDC & ./cliA & ./cliB &
+
+
+
+open terminal run gcc cliA.c -o cliA.c;
+open terminal run gcc cliB.c -o cliB.c;
+open terminal KDC.c -o KDC.c;
+
+
+
